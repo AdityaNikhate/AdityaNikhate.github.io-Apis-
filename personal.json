@@ -1,0 +1,28 @@
+{
+  "name": "Aditya Nikhate",
+  "phone": "+91 135455842",
+  "mail": "testit225@gmail.com",
+
+  "bio": "MY BIO",
+  "fun": "FUN STATEMENT",
+
+  "github": "https://github1.com/123/",
+  "twitter": "https://twitter1.com/123/",
+  "linkedin": "http://linkedin1.com/in/123/",
+
+  "aboutme": {
+      "para1": "This is Paragraph 1",
+      "para2": "This is Paragraph 2"
+  },
+
+  "volunteer": {
+      "tfi": {
+          "heading": "Teach For India",
+          "description": "description of TFI"
+      },
+      "pisb": {
+          "heading": "PICT IEEE Student Branch",
+          "description": "description of PISB"
+      }
+  }
+}
