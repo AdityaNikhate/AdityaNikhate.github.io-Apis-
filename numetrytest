@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aditya Nikhate",
+    "position": "Software Engineer",
+    "salary": "90000",
+    "phoneNo": "78789945656",
+    "email": "aditya@example.com",
+    "city": "Chandrapur"
+  },
+  {
+    "name": "Akash Kumar",
+    "position": "Software Engineer",
+    "salary": "190000",
+    "phoneNo": "789945656",
+    "email": "akash1@example.com",
+    "city": "Warora"
+  },
+  {
+    "name": "Krutik Vihirghare",
+    "position": "UI UX Engineer",
+    "salary": "19000",
+    "phoneNo": "789948556",
+    "email": "krutik@example.com",
+    "city": "Rajura"
+  },
+  {
+    "name": "Pranit Channe",
+    "position": "Tester",
+    "salary": "700000",
+    "phoneNo": "778945656",
+    "email": "Pranit@example.com",
+    "city": "Sasti"
+  },
+  {
+    "name": "Hrishikesh Sharma",
+    "position": "Frontend Engineer",
+    "salary": "120000",
+    "phoneNo": "99855656",
+    "email": "sharma@example.com",
+    "city": "Chandrapur"
+  }
+]
